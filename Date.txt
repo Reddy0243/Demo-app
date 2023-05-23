@@ -1,0 +1,8 @@
+ class date
+{
+    public void datemethod()
+                {
+                    //logic here
+                 }
+}
+ 
